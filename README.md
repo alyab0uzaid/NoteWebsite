@@ -26,4 +26,5 @@ The note-taking web app includes user authentication features, allowing users to
   
 
 <img width="1440" alt="Screen Shot 2023-11-30 at 11 46 40 AM" src="https://github.com/alyab0uzaid/NoteWebsite/assets/130592545/b8a73ffd-2bab-4657-bd2c-0810287d2839">
+
 <img width="1440" alt="Screen Shot 2023-11-30 at 11 46 32 AM" src="https://github.com/alyab0uzaid/NoteWebsite/assets/130592545/39de3aa4-20c6-453d-9b06-66c4816d711a">
