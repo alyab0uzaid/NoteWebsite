@@ -21,3 +21,5 @@ The note-taking web app includes user authentication features, allowing users to
 
 - Registered users can log in with their credentials.
 - Passwords are verified securely using the stored hashed values.
+  
+<img width="1440" alt="Screen Shot 2023-11-30 at 11 42 04 AM" src="https://github.com/alyab0uzaid/NoteWebsite/assets/130592545/bdbfb612-ff5c-430a-942b-4aa990bbd58d">
